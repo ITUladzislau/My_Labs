@@ -1,0 +1,39 @@
+C:\Users\vlad1\OneDrive\Рабочий стол\labav\Валены лабы\Laba2ValiaPart2\obj\Debug\netcoreapp3.1\Laba2ValiaPart2.csprojAssemblyReference.cache
+C:\Users\vlad1\OneDrive\Рабочий стол\labav\Валены лабы\Laba2ValiaPart2\obj\Debug\netcoreapp3.1\Laba2ValiaPart2.AssemblyInfoInputs.cache
+C:\Users\vlad1\OneDrive\Рабочий стол\labav\Валены лабы\Laba2ValiaPart2\obj\Debug\netcoreapp3.1\Laba2ValiaPart2.AssemblyInfo.cs
+C:\Users\vlad1\OneDrive\Рабочий стол\labav\Валены лабы\Laba2ValiaPart2\obj\Debug\netcoreapp3.1\Laba2ValiaPart2.csproj.CoreCompileInputs.cache
+C:\Users\vlad1\OneDrive\Рабочий стол\labav\Валены лабы\Laba2ValiaPart2\bin\Debug\netcoreapp3.1\Laba2ValiaPart2.exe
+C:\Users\vlad1\OneDrive\Рабочий стол\labav\Валены лабы\Laba2ValiaPart2\bin\Debug\netcoreapp3.1\Laba2ValiaPart2.deps.json
+C:\Users\vlad1\OneDrive\Рабочий стол\labav\Валены лабы\Laba2ValiaPart2\bin\Debug\netcoreapp3.1\Laba2ValiaPart2.runtimeconfig.json
+C:\Users\vlad1\OneDrive\Рабочий стол\labav\Валены лабы\Laba2ValiaPart2\bin\Debug\netcoreapp3.1\Laba2ValiaPart2.runtimeconfig.dev.json
+C:\Users\vlad1\OneDrive\Рабочий стол\labav\Валены лабы\Laba2ValiaPart2\bin\Debug\netcoreapp3.1\Laba2ValiaPart2.dll
+C:\Users\vlad1\OneDrive\Рабочий стол\labav\Валены лабы\Laba2ValiaPart2\bin\Debug\netcoreapp3.1\Laba2ValiaPart2.pdb
+C:\Users\vlad1\OneDrive\Рабочий стол\labav\Валены лабы\Laba2ValiaPart2\obj\Debug\netcoreapp3.1\Laba2ValiaPart2.dll
+C:\Users\vlad1\OneDrive\Рабочий стол\labav\Валены лабы\Laba2ValiaPart2\obj\Debug\netcoreapp3.1\Laba2ValiaPart2.pdb
+C:\Users\vlad1\OneDrive\Рабочий стол\labav\Валены лабы\Laba2ValiaPart2\obj\Debug\netcoreapp3.1\Laba2ValiaPart2.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Валены лабы\Laba2ValiaPart2\bin\Debug\netcoreapp3.1\Laba2ValiaPart2.exe
+C:\Users\Asus\Desktop\Валены лабы\Laba2ValiaPart2\bin\Debug\netcoreapp3.1\Laba2ValiaPart2.deps.json
+C:\Users\Asus\Desktop\Валены лабы\Laba2ValiaPart2\bin\Debug\netcoreapp3.1\Laba2ValiaPart2.runtimeconfig.json
+C:\Users\Asus\Desktop\Валены лабы\Laba2ValiaPart2\bin\Debug\netcoreapp3.1\Laba2ValiaPart2.runtimeconfig.dev.json
+C:\Users\Asus\Desktop\Валены лабы\Laba2ValiaPart2\bin\Debug\netcoreapp3.1\Laba2ValiaPart2.dll
+C:\Users\Asus\Desktop\Валены лабы\Laba2ValiaPart2\bin\Debug\netcoreapp3.1\Laba2ValiaPart2.pdb
+C:\Users\Asus\Desktop\Валены лабы\Laba2ValiaPart2\obj\Debug\netcoreapp3.1\Laba2ValiaPart2.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Валены лабы\Laba2ValiaPart2\obj\Debug\netcoreapp3.1\Laba2ValiaPart2.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Валены лабы\Laba2ValiaPart2\obj\Debug\netcoreapp3.1\Laba2ValiaPart2.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Валены лабы\Laba2ValiaPart2\obj\Debug\netcoreapp3.1\Laba2ValiaPart2.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Валены лабы\Laba2ValiaPart2\obj\Debug\netcoreapp3.1\Laba2ValiaPart2.dll
+C:\Users\Asus\Desktop\Валены лабы\Laba2ValiaPart2\obj\Debug\netcoreapp3.1\Laba2ValiaPart2.pdb
+C:\Users\Asus\Desktop\Валены лабы\Laba2ValiaPart2\obj\Debug\netcoreapp3.1\Laba2ValiaPart2.genruntimeconfig.cache
+G:\Валены лабы\Laba2ValiaPart2\bin\Debug\netcoreapp3.1\Laba2ValiaPart2.exe
+G:\Валены лабы\Laba2ValiaPart2\bin\Debug\netcoreapp3.1\Laba2ValiaPart2.deps.json
+G:\Валены лабы\Laba2ValiaPart2\bin\Debug\netcoreapp3.1\Laba2ValiaPart2.runtimeconfig.json
+G:\Валены лабы\Laba2ValiaPart2\bin\Debug\netcoreapp3.1\Laba2ValiaPart2.runtimeconfig.dev.json
+G:\Валены лабы\Laba2ValiaPart2\bin\Debug\netcoreapp3.1\Laba2ValiaPart2.dll
+G:\Валены лабы\Laba2ValiaPart2\bin\Debug\netcoreapp3.1\Laba2ValiaPart2.pdb
+G:\Валены лабы\Laba2ValiaPart2\obj\Debug\netcoreapp3.1\Laba2ValiaPart2.csprojAssemblyReference.cache
+G:\Валены лабы\Laba2ValiaPart2\obj\Debug\netcoreapp3.1\Laba2ValiaPart2.AssemblyInfoInputs.cache
+G:\Валены лабы\Laba2ValiaPart2\obj\Debug\netcoreapp3.1\Laba2ValiaPart2.AssemblyInfo.cs
+G:\Валены лабы\Laba2ValiaPart2\obj\Debug\netcoreapp3.1\Laba2ValiaPart2.csproj.CoreCompileInputs.cache
+G:\Валены лабы\Laba2ValiaPart2\obj\Debug\netcoreapp3.1\Laba2ValiaPart2.dll
+G:\Валены лабы\Laba2ValiaPart2\obj\Debug\netcoreapp3.1\Laba2ValiaPart2.pdb
+G:\Валены лабы\Laba2ValiaPart2\obj\Debug\netcoreapp3.1\Laba2ValiaPart2.genruntimeconfig.cache

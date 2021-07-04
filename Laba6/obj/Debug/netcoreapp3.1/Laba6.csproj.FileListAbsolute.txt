@@ -1,0 +1,75 @@
+C:\Users\vlad1\OneDrive\Рабочий стол\labav\Laba6\obj\Debug\netcoreapp3.1\Laba6.csprojAssemblyReference.cache
+C:\Users\vlad1\OneDrive\Рабочий стол\labav\Laba6\obj\Debug\netcoreapp3.1\Laba6.Form1.resources
+C:\Users\vlad1\OneDrive\Рабочий стол\labav\Laba6\obj\Debug\netcoreapp3.1\Laba6.csproj.GenerateResource.cache
+C:\Users\vlad1\OneDrive\Рабочий стол\labav\Laba6\obj\Debug\netcoreapp3.1\Laba6.AssemblyInfoInputs.cache
+C:\Users\vlad1\OneDrive\Рабочий стол\labav\Laba6\obj\Debug\netcoreapp3.1\Laba6.AssemblyInfo.cs
+C:\Users\vlad1\OneDrive\Рабочий стол\labav\Laba6\obj\Debug\netcoreapp3.1\Laba6.csproj.CoreCompileInputs.cache
+C:\Users\vlad1\OneDrive\Рабочий стол\labav\Laba6\bin\Debug\netcoreapp3.1\Laba6.exe
+C:\Users\vlad1\OneDrive\Рабочий стол\labav\Laba6\bin\Debug\netcoreapp3.1\Laba6.deps.json
+C:\Users\vlad1\OneDrive\Рабочий стол\labav\Laba6\bin\Debug\netcoreapp3.1\Laba6.runtimeconfig.json
+C:\Users\vlad1\OneDrive\Рабочий стол\labav\Laba6\bin\Debug\netcoreapp3.1\Laba6.runtimeconfig.dev.json
+C:\Users\vlad1\OneDrive\Рабочий стол\labav\Laba6\bin\Debug\netcoreapp3.1\Laba6.dll
+C:\Users\vlad1\OneDrive\Рабочий стол\labav\Laba6\bin\Debug\netcoreapp3.1\Laba6.pdb
+C:\Users\vlad1\OneDrive\Рабочий стол\labav\Laba6\obj\Debug\netcoreapp3.1\Laba6.dll
+C:\Users\vlad1\OneDrive\Рабочий стол\labav\Laba6\obj\Debug\netcoreapp3.1\Laba6.pdb
+C:\Users\vlad1\OneDrive\Рабочий стол\labav\Laba6\obj\Debug\netcoreapp3.1\Laba6.genruntimeconfig.cache
+C:\Users\vlad1\OneDrive\Рабочий стол\labav\Валены лабы\Laba6\bin\Debug\netcoreapp3.1\Laba6.exe
+C:\Users\vlad1\OneDrive\Рабочий стол\labav\Валены лабы\Laba6\bin\Debug\netcoreapp3.1\Laba6.deps.json
+C:\Users\vlad1\OneDrive\Рабочий стол\labav\Валены лабы\Laba6\bin\Debug\netcoreapp3.1\Laba6.runtimeconfig.json
+C:\Users\vlad1\OneDrive\Рабочий стол\labav\Валены лабы\Laba6\bin\Debug\netcoreapp3.1\Laba6.runtimeconfig.dev.json
+C:\Users\vlad1\OneDrive\Рабочий стол\labav\Валены лабы\Laba6\bin\Debug\netcoreapp3.1\Laba6.dll
+C:\Users\vlad1\OneDrive\Рабочий стол\labav\Валены лабы\Laba6\bin\Debug\netcoreapp3.1\Laba6.pdb
+C:\Users\vlad1\OneDrive\Рабочий стол\labav\Валены лабы\Laba6\obj\Debug\netcoreapp3.1\Laba6.csprojAssemblyReference.cache
+C:\Users\vlad1\OneDrive\Рабочий стол\labav\Валены лабы\Laba6\obj\Debug\netcoreapp3.1\Laba6.Form1.resources
+C:\Users\vlad1\OneDrive\Рабочий стол\labav\Валены лабы\Laba6\obj\Debug\netcoreapp3.1\Laba6.csproj.GenerateResource.cache
+C:\Users\vlad1\OneDrive\Рабочий стол\labav\Валены лабы\Laba6\obj\Debug\netcoreapp3.1\Laba6.AssemblyInfoInputs.cache
+C:\Users\vlad1\OneDrive\Рабочий стол\labav\Валены лабы\Laba6\obj\Debug\netcoreapp3.1\Laba6.AssemblyInfo.cs
+C:\Users\vlad1\OneDrive\Рабочий стол\labav\Валены лабы\Laba6\obj\Debug\netcoreapp3.1\Laba6.csproj.CoreCompileInputs.cache
+C:\Users\vlad1\OneDrive\Рабочий стол\labav\Валены лабы\Laba6\obj\Debug\netcoreapp3.1\Laba6.dll
+C:\Users\vlad1\OneDrive\Рабочий стол\labav\Валены лабы\Laba6\obj\Debug\netcoreapp3.1\Laba6.pdb
+C:\Users\vlad1\OneDrive\Рабочий стол\labav\Валены лабы\Laba6\obj\Debug\netcoreapp3.1\Laba6.genruntimeconfig.cache
+G:\Валены лабы\Laba6\bin\Debug\netcoreapp3.1\Laba6.exe
+G:\Валены лабы\Laba6\bin\Debug\netcoreapp3.1\Laba6.deps.json
+G:\Валены лабы\Laba6\bin\Debug\netcoreapp3.1\Laba6.runtimeconfig.json
+G:\Валены лабы\Laba6\bin\Debug\netcoreapp3.1\Laba6.runtimeconfig.dev.json
+G:\Валены лабы\Laba6\bin\Debug\netcoreapp3.1\Laba6.dll
+G:\Валены лабы\Laba6\bin\Debug\netcoreapp3.1\Laba6.pdb
+G:\Валены лабы\Laba6\obj\Debug\netcoreapp3.1\Laba6.csprojAssemblyReference.cache
+G:\Валены лабы\Laba6\obj\Debug\netcoreapp3.1\Laba6.Form1.resources
+G:\Валены лабы\Laba6\obj\Debug\netcoreapp3.1\Laba6.csproj.GenerateResource.cache
+G:\Валены лабы\Laba6\obj\Debug\netcoreapp3.1\Laba6.AssemblyInfoInputs.cache
+G:\Валены лабы\Laba6\obj\Debug\netcoreapp3.1\Laba6.AssemblyInfo.cs
+G:\Валены лабы\Laba6\obj\Debug\netcoreapp3.1\Laba6.csproj.CoreCompileInputs.cache
+G:\Валены лабы\Laba6\obj\Debug\netcoreapp3.1\Laba6.dll
+G:\Валены лабы\Laba6\obj\Debug\netcoreapp3.1\Laba6.pdb
+G:\Валены лабы\Laba6\obj\Debug\netcoreapp3.1\Laba6.genruntimeconfig.cache
+G:\Лабораторные\Laba6\bin\Debug\netcoreapp3.1\Laba6.exe
+G:\Лабораторные\Laba6\bin\Debug\netcoreapp3.1\Laba6.deps.json
+G:\Лабораторные\Laba6\bin\Debug\netcoreapp3.1\Laba6.runtimeconfig.json
+G:\Лабораторные\Laba6\bin\Debug\netcoreapp3.1\Laba6.runtimeconfig.dev.json
+G:\Лабораторные\Laba6\bin\Debug\netcoreapp3.1\Laba6.dll
+G:\Лабораторные\Laba6\bin\Debug\netcoreapp3.1\Laba6.pdb
+G:\Лабораторные\Laba6\obj\Debug\netcoreapp3.1\Laba6.csprojAssemblyReference.cache
+G:\Лабораторные\Laba6\obj\Debug\netcoreapp3.1\Laba6.Form1.resources
+G:\Лабораторные\Laba6\obj\Debug\netcoreapp3.1\Laba6.csproj.GenerateResource.cache
+G:\Лабораторные\Laba6\obj\Debug\netcoreapp3.1\Laba6.AssemblyInfoInputs.cache
+G:\Лабораторные\Laba6\obj\Debug\netcoreapp3.1\Laba6.AssemblyInfo.cs
+G:\Лабораторные\Laba6\obj\Debug\netcoreapp3.1\Laba6.csproj.CoreCompileInputs.cache
+G:\Лабораторные\Laba6\obj\Debug\netcoreapp3.1\Laba6.dll
+G:\Лабораторные\Laba6\obj\Debug\netcoreapp3.1\Laba6.pdb
+G:\Лабораторные\Laba6\obj\Debug\netcoreapp3.1\Laba6.genruntimeconfig.cache
+C:\Users\vlad1\OneDrive\Рабочий стол\Automation Testing\Labs\Laba6\bin\Debug\netcoreapp3.1\Laba6.exe
+C:\Users\vlad1\OneDrive\Рабочий стол\Automation Testing\Labs\Laba6\bin\Debug\netcoreapp3.1\Laba6.deps.json
+C:\Users\vlad1\OneDrive\Рабочий стол\Automation Testing\Labs\Laba6\bin\Debug\netcoreapp3.1\Laba6.runtimeconfig.json
+C:\Users\vlad1\OneDrive\Рабочий стол\Automation Testing\Labs\Laba6\bin\Debug\netcoreapp3.1\Laba6.runtimeconfig.dev.json
+C:\Users\vlad1\OneDrive\Рабочий стол\Automation Testing\Labs\Laba6\bin\Debug\netcoreapp3.1\Laba6.dll
+C:\Users\vlad1\OneDrive\Рабочий стол\Automation Testing\Labs\Laba6\bin\Debug\netcoreapp3.1\Laba6.pdb
+C:\Users\vlad1\OneDrive\Рабочий стол\Automation Testing\Labs\Laba6\obj\Debug\netcoreapp3.1\Laba6.csproj.AssemblyReference.cache
+C:\Users\vlad1\OneDrive\Рабочий стол\Automation Testing\Labs\Laba6\obj\Debug\netcoreapp3.1\Laba6.Form1.resources
+C:\Users\vlad1\OneDrive\Рабочий стол\Automation Testing\Labs\Laba6\obj\Debug\netcoreapp3.1\Laba6.csproj.GenerateResource.cache
+C:\Users\vlad1\OneDrive\Рабочий стол\Automation Testing\Labs\Laba6\obj\Debug\netcoreapp3.1\Laba6.AssemblyInfoInputs.cache
+C:\Users\vlad1\OneDrive\Рабочий стол\Automation Testing\Labs\Laba6\obj\Debug\netcoreapp3.1\Laba6.AssemblyInfo.cs
+C:\Users\vlad1\OneDrive\Рабочий стол\Automation Testing\Labs\Laba6\obj\Debug\netcoreapp3.1\Laba6.csproj.CoreCompileInputs.cache
+C:\Users\vlad1\OneDrive\Рабочий стол\Automation Testing\Labs\Laba6\obj\Debug\netcoreapp3.1\Laba6.dll
+C:\Users\vlad1\OneDrive\Рабочий стол\Automation Testing\Labs\Laba6\obj\Debug\netcoreapp3.1\Laba6.pdb
+C:\Users\vlad1\OneDrive\Рабочий стол\Automation Testing\Labs\Laba6\obj\Debug\netcoreapp3.1\Laba6.genruntimeconfig.cache

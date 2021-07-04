@@ -1,0 +1,39 @@
+C:\Users\vlad1\OneDrive\Рабочий стол\labav\Валены лабы\Laba4Valia\bin\Debug\netcoreapp3.1\Laba4Valia.exe
+C:\Users\vlad1\OneDrive\Рабочий стол\labav\Валены лабы\Laba4Valia\bin\Debug\netcoreapp3.1\Laba4Valia.deps.json
+C:\Users\vlad1\OneDrive\Рабочий стол\labav\Валены лабы\Laba4Valia\bin\Debug\netcoreapp3.1\Laba4Valia.runtimeconfig.json
+C:\Users\vlad1\OneDrive\Рабочий стол\labav\Валены лабы\Laba4Valia\bin\Debug\netcoreapp3.1\Laba4Valia.runtimeconfig.dev.json
+C:\Users\vlad1\OneDrive\Рабочий стол\labav\Валены лабы\Laba4Valia\bin\Debug\netcoreapp3.1\Laba4Valia.dll
+C:\Users\vlad1\OneDrive\Рабочий стол\labav\Валены лабы\Laba4Valia\bin\Debug\netcoreapp3.1\Laba4Valia.pdb
+C:\Users\vlad1\OneDrive\Рабочий стол\labav\Валены лабы\Laba4Valia\obj\Debug\netcoreapp3.1\Laba4Valia.csprojAssemblyReference.cache
+C:\Users\vlad1\OneDrive\Рабочий стол\labav\Валены лабы\Laba4Valia\obj\Debug\netcoreapp3.1\Laba4Valia.AssemblyInfoInputs.cache
+C:\Users\vlad1\OneDrive\Рабочий стол\labav\Валены лабы\Laba4Valia\obj\Debug\netcoreapp3.1\Laba4Valia.AssemblyInfo.cs
+C:\Users\vlad1\OneDrive\Рабочий стол\labav\Валены лабы\Laba4Valia\obj\Debug\netcoreapp3.1\Laba4Valia.csproj.CoreCompileInputs.cache
+C:\Users\vlad1\OneDrive\Рабочий стол\labav\Валены лабы\Laba4Valia\obj\Debug\netcoreapp3.1\Laba4Valia.dll
+C:\Users\vlad1\OneDrive\Рабочий стол\labav\Валены лабы\Laba4Valia\obj\Debug\netcoreapp3.1\Laba4Valia.pdb
+C:\Users\vlad1\OneDrive\Рабочий стол\labav\Валены лабы\Laba4Valia\obj\Debug\netcoreapp3.1\Laba4Valia.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Валены лабы\Laba4Valia\bin\Debug\netcoreapp3.1\Laba4Valia.exe
+C:\Users\Asus\Desktop\Валены лабы\Laba4Valia\bin\Debug\netcoreapp3.1\Laba4Valia.deps.json
+C:\Users\Asus\Desktop\Валены лабы\Laba4Valia\bin\Debug\netcoreapp3.1\Laba4Valia.runtimeconfig.json
+C:\Users\Asus\Desktop\Валены лабы\Laba4Valia\bin\Debug\netcoreapp3.1\Laba4Valia.runtimeconfig.dev.json
+C:\Users\Asus\Desktop\Валены лабы\Laba4Valia\bin\Debug\netcoreapp3.1\Laba4Valia.dll
+C:\Users\Asus\Desktop\Валены лабы\Laba4Valia\bin\Debug\netcoreapp3.1\Laba4Valia.pdb
+C:\Users\Asus\Desktop\Валены лабы\Laba4Valia\obj\Debug\netcoreapp3.1\Laba4Valia.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Валены лабы\Laba4Valia\obj\Debug\netcoreapp3.1\Laba4Valia.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Валены лабы\Laba4Valia\obj\Debug\netcoreapp3.1\Laba4Valia.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Валены лабы\Laba4Valia\obj\Debug\netcoreapp3.1\Laba4Valia.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Валены лабы\Laba4Valia\obj\Debug\netcoreapp3.1\Laba4Valia.dll
+C:\Users\Asus\Desktop\Валены лабы\Laba4Valia\obj\Debug\netcoreapp3.1\Laba4Valia.pdb
+C:\Users\Asus\Desktop\Валены лабы\Laba4Valia\obj\Debug\netcoreapp3.1\Laba4Valia.genruntimeconfig.cache
+G:\Валены лабы\Laba4Valia\bin\Debug\netcoreapp3.1\Laba4Valia.exe
+G:\Валены лабы\Laba4Valia\bin\Debug\netcoreapp3.1\Laba4Valia.deps.json
+G:\Валены лабы\Laba4Valia\bin\Debug\netcoreapp3.1\Laba4Valia.runtimeconfig.json
+G:\Валены лабы\Laba4Valia\bin\Debug\netcoreapp3.1\Laba4Valia.runtimeconfig.dev.json
+G:\Валены лабы\Laba4Valia\bin\Debug\netcoreapp3.1\Laba4Valia.dll
+G:\Валены лабы\Laba4Valia\bin\Debug\netcoreapp3.1\Laba4Valia.pdb
+G:\Валены лабы\Laba4Valia\obj\Debug\netcoreapp3.1\Laba4Valia.csprojAssemblyReference.cache
+G:\Валены лабы\Laba4Valia\obj\Debug\netcoreapp3.1\Laba4Valia.AssemblyInfoInputs.cache
+G:\Валены лабы\Laba4Valia\obj\Debug\netcoreapp3.1\Laba4Valia.AssemblyInfo.cs
+G:\Валены лабы\Laba4Valia\obj\Debug\netcoreapp3.1\Laba4Valia.csproj.CoreCompileInputs.cache
+G:\Валены лабы\Laba4Valia\obj\Debug\netcoreapp3.1\Laba4Valia.dll
+G:\Валены лабы\Laba4Valia\obj\Debug\netcoreapp3.1\Laba4Valia.pdb
+G:\Валены лабы\Laba4Valia\obj\Debug\netcoreapp3.1\Laba4Valia.genruntimeconfig.cache
